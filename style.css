@@ -1,0 +1,63 @@
+.i {
+  background-color: rgb(62, 55, 185);
+  color: aliceblue;
+  font-size: 45px;
+  text-align: center;
+  width: 1300px;
+  height: auto;
+  margin-top: 20px;
+  padding: 8px;
+  border-radius: 7px;
+}
+.j {
+  background-color: rgb(240, 237, 233);
+  width: 1300px;
+  padding: 8px;
+  border-radius: 8px;
+  height: 380px;
+}
+.p {
+  width: 190px;
+  height: 220px;
+  margin-right: 25px;
+}
+.t {
+  text-align: center;
+  padding-right: 15px;
+  padding-top: 5px;
+  padding-bottom: 4px;
+  font-size: 17px;
+  font-family: gotham;
+}
+@font-face {
+  font-family: Gotham;
+  src: url("Gotham.woff2");
+}
+.b {
+  width: 185px;
+  height: 40px;
+  background-color: transparent;
+  color: rgb(52, 54, 54);
+  font-family: gotham;
+  font-size: 15px;
+  font-weight: bold;
+  border-color: rgb(57, 55, 55);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 3px;
+  margin-left: 5px;
+}
+.b:hover {
+  background-color: rgb(45, 230, 82);
+  color: rgb(255, 254, 254);
+  border-color: rgb(36, 86, 36);
+  cursor: pointer;
+  transition: 0.5s;
+}
+.l {
+  background-color: rgb(238, 200, 76);
+  width: 1300px;
+  height: 190px;
+  padding: 8px;
+  border-radius: 8px;
+}
