@@ -61,3 +61,20 @@
   padding: 8px;
   border-radius: 8px;
 }
+@media screen and (max-width:1440px) {
+  body{padding: 0 5% 0;}
+  .i{width: 100%;}
+  .j{width: 100%;}
+  .l{width: 100%;}
+  .l li{
+margin-right: 20px
+  }
+  
+}
+
+@media screen and (max-width:1320px) {
+  .j{overflow-x: auto;}
+  body{overflow: hidden;}
+  
+  
+}
