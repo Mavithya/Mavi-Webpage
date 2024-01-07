@@ -73,6 +73,7 @@
 }
 @media screen and (max-width:1440px) {
   body{padding: 0 4% 0;}
+  .container{width: 100%;}
   .i{width: 100%;}
   .j{width: 100%;}
   .l{width: 100%;}
