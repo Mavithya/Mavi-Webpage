@@ -61,6 +61,16 @@
   padding: 8px;
   border-radius: 8px;
 }
+.li{
+  margin-left: 300px;
+  margin-top: -140px;
+  font-family: gotham;
+  font-size: 14px
+}
+.container{
+  width: 100%;
+  background-repeat: no-repeat;
+}
 @media screen and (max-width:1440px) {
   body{padding: 0 4% 0;}
   .i{width: 100%;}
@@ -76,5 +86,9 @@ margin-right: 20px
   .j{overflow-x: auto;}
   body{overflow: hidden;}
   
+  
+}
+@media screen and (max-width:496px){
+  .li{font-size:12px;margin-left: 180px;}
   
 }
